@@ -1,0 +1,11 @@
+Z:\QQ139\Library System\Library System\bin\x64\Debug\Library System.exe.config
+Z:\QQ139\Library System\Library System\bin\x64\Debug\Library System.exe
+Z:\QQ139\Library System\Library System\bin\x64\Debug\Library System.pdb
+Z:\QQ139\Library System\Library System\obj\x64\Debug\Library System.csproj.AssemblyReference.cache
+Z:\QQ139\Library System\Library System\obj\x64\Debug\Library System.csproj.SuggestedBindingRedirects.cache
+Z:\QQ139\Library System\Library System\obj\x64\Debug\Library_System.Form1.resources
+Z:\QQ139\Library System\Library System\obj\x64\Debug\Library_System.Properties.Resources.resources
+Z:\QQ139\Library System\Library System\obj\x64\Debug\Library System.csproj.GenerateResource.cache
+Z:\QQ139\Library System\Library System\obj\x64\Debug\Library System.csproj.CoreCompileInputs.cache
+Z:\QQ139\Library System\Library System\obj\x64\Debug\Library System.exe
+Z:\QQ139\Library System\Library System\obj\x64\Debug\Library System.pdb
